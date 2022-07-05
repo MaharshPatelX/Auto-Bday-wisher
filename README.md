@@ -169,4 +169,4 @@ Project Link: [https://github.com/MaharshPatelX/Auto-Bday-wisher](https://github
 [license-url]: https://github.com/MaharshPatelX/Auto-Bday-wisher/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/maharsh-patel-4a8261177/
-[product-screenshot]: https://github.com/MaharshPatelX/Auto-Bday-wisher/blob/main/Images/home.png
+[product-screenshot]: https://github.com/MaharshPatelX/Auto-Bday-wisher/blob/main/Images/home.PNG
