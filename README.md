@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MaharshPatelX/Auto-Bday-wisher">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/MaharshPatelX/Auto-Bday-wisher/blob/main/Images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">AUTO Bday Wisher</h3>
