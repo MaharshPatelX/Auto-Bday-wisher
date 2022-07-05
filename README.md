@@ -113,11 +113,11 @@ To get a local copy up and running follow these simple example steps.
 <br><br>
 
    ```python
-    # makejson.py
-    7. myclient = pymongo.MongoClient("Your-MongoDB-URL")
+    # makejson.py (line no. 7)
+    myclient = pymongo.MongoClient("Your-MongoDB-URL")
     
-    # message.py
-    7. bot.login(username="user", password="pass", use_cookie = False)
+    # message.py (line no. 7)
+    bot.login(username="user", password="pass", use_cookie = False)
    ```
 
 4. Run Files On SERVER(raspberry pi) side
